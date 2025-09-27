@@ -2,6 +2,7 @@
 
 **A BSc Computer Science Graduate - 2025**  
 Passionate about **Web Development, Frontend & Backend**, and building **real-world projects**.
+Exploring **AI**.
 
 📫 **Contact Me:** abhi1987666@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/npisi](https://www.linkedin.com/in/npisi)  
@@ -33,11 +34,11 @@ Passionate about **Web Development, Frontend & Backend**, and building **real-wo
 A complete property rental web app using JavaScript.  
 Features dynamic booking and availability checks.  
 
-### **[Globe-View](https://github.com/npisi/Globe-View)**
-A web app showcasing interactive globe visualization using JS.  
-
 ### **[The-EventHub](https://github.com/npisi/The-EventHub)**
 React app for **Event Venue Booking**. Uses **React Hooks**, **Context API**, and core React functionalities.
+
+### **[Globe-View](https://github.com/npisi/Globe-View)**
+A web app showcasing interactive globe visualization using JS.  
 
 ### **[To-Do-List](https://github.com/npisi/To-Do-List)**
 Classic **HTML/CSS/JS To-Do List** app built for learning core frontend technologies.
@@ -50,5 +51,5 @@ Classic **HTML/CSS/JS To-Do List** app built for learning core frontend technolo
 ---
 
 ## ⚡ Fun Fact
-- Love building **interactive UI/UX** and **learning new JS frameworks**.  
-- Coffee is my productivity fuel ☕💻
+- Love building **interactive UI/UX** and **learning new Technologies**.  
+
